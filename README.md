@@ -1,11 +1,11 @@
 HAFIZA PUTROE DINURZA X4
-> Deskripsi
+1. Deskripsi
  Repository ini dibuat untuk tugas pembelajaran Github.
-> Tujuan
+2. Tujuan
  Belajar menggunakan Github seperti membuat repository, mengedit file,
  dan melakukan commit.
-> pembuat
+3. pembuat
  Nama: Hafiza puttoe dinurza
  kelas: X4
-> Isi Repository
+4. Isi Repository
 Berisi file tugas dan latihan pemograman.
